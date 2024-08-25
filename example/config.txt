@@ -1,0 +1,2 @@
+Prefix plugins/NOAConvertNames/example/
+Plugin NOAConvertNames inputfile parameters.noaconvert.phylum.txt outputfile output.noa
